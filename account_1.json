@@ -1,0 +1,101 @@
+[
+  {
+    "name": "_ym_uid",
+    "value": "1677491106318838443",
+    "domain": ".aviso.bz",
+    "path": "/",
+    "expires": 1709027105,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ym_d",
+    "value": "1677491106",
+    "domain": ".aviso.bz",
+    "path": "/",
+    "expires": 1709027105,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "menu_ref",
+    "value": "b303849cb95fe5dba471d2a7a3bf956a",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": 1709117239.828298,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cf_clearance",
+    "value": "k74Lg0lQ3CCUZBFM5bzUKO2.EdTL83MiM2NBiCIu7NM-1677949766-0-160",
+    "domain": ".aviso.bz",
+    "path": "/",
+    "expires": 1709485765.794442,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "g5gs25hh043nkh87b77t36cvku",
+    "domain": ".aviso.bz",
+    "path": "/",
+    "expires": 1690720350.270614,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "googtrans",
+    "value": "null",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "googtrans",
+    "value": "null",
+    "domain": ".aviso.bz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ym_isad",
+    "value": "1",
+    "domain": ".aviso.bz",
+    "path": "/",
+    "expires": 1690705952,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "cenrifugo_token",
+    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODM4NTk2IiwiZXhwIjoxNjkwNjQ0NzY5fQ.bcuWVb5eVEB8qrHTwekoUNeigEXIRQBs7VSlaoTB_QQ",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": 1690644764.836567,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cenrifugo_token_exp",
+    "value": "1690644769",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": 1690644764.836664,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "mnu_title1",
+    "value": "1",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": 1693243968,
+    "httpOnly": false,
+    "secure": false
+  }
+]
