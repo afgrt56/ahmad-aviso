@@ -72,29 +72,29 @@
     "secure": true
   },
   {
-    "name": "cenrifugo_token",
-    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODM4NTk2IiwiZXhwIjoxNjkwNjQ0NzY5fQ.bcuWVb5eVEB8qrHTwekoUNeigEXIRQBs7VSlaoTB_QQ",
-    "domain": "aviso.bz",
-    "path": "/",
-    "expires": 1690644764.836567,
-    "httpOnly": false,
-    "secure": false
-  },
-  {
-    "name": "cenrifugo_token_exp",
-    "value": "1690644769",
-    "domain": "aviso.bz",
-    "path": "/",
-    "expires": 1690644764.836664,
-    "httpOnly": false,
-    "secure": false
-  },
-  {
     "name": "mnu_title1",
     "value": "1",
     "domain": "aviso.bz",
     "path": "/",
     "expires": 1693243968,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cenrifugo_token",
+    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODM4NTk2IiwiZXhwIjoxNjkwNjg4OTQwfQ._Ia0VC6Q4aQXHdh_MT3ST-6O37FJjN4gmrIOop9XF5A",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": 1690688934.631019,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cenrifugo_token_exp",
+    "value": "1690688940",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": 1690688934.6311,
     "httpOnly": false,
     "secure": false
   }
