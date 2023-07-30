@@ -13,13 +13,13 @@ import json
 
 def running():
     opt = Options()
-    #opt.headless = True
+    opt.headless = True
     driver1 = webdriver.Chrome(options=opt)
     driver1.set_window_size(800, 600)
     driver1.get("https://aviso.bz/login")
     print("please wait...")
     # load cookies
-    with open('./cookies/account_1.json', 'r') as f:
+    with open('./account_1.json', 'r') as f:
         cookies = json.load(f)
     time.sleep(2)
     for cookie in cookies:
