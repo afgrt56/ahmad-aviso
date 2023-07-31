@@ -1,4 +1,7 @@
 from selenium import webdriver
+import chromedriver_autoinstaller
+
+chromedriver_autoinstaller.install()
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')  # To run Chrome in headless mode
