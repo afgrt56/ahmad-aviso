@@ -1,15 +1,15 @@
 from selenium import webdriver
-import chromedriver_autoinstaller
-
-chromedriver_autoinstaller.install()
 
 options = webdriver.ChromeOptions()
-options.add_argument('--headless')  # To run Chrome in headless mode
-options.add_argument('--no-sandbox')  # Required when running as root user in Cloud Shell
+options.add_argument('--headless')  # To run Chrome in headless mode (without GUI)
+options.add_argument('--no-sandbox')  # Required for running as a superuser
+driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver', options=options)
 
-driver = webdriver.Chrome(options=options)
 driver.get('https://www.google.com')
-print("wait")
-# Your Selenium interactions here...
+search_box = driver.find_element_by_name('q')
+search_box.send_keys('Hello, Google!')
+search_box.submit()
+
+driver.save_screenshot('screenshot.png')  # Take a screenshot to verify
 
 driver.quit()
