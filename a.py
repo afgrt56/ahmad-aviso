@@ -14,7 +14,7 @@ import json
 def running():
     opt = Options()
     opt.headless = True
-    driver1 = webdriver.Chrome(executable_path='./chromedriver', options=opt)
+    driver1 = webdriver.Chrome(executable_path='./home/ahhd6388/.cache/selenium/chromedriver/linux64/114.0.5735.90/chromedriver', options=opt)
     driver1.set_window_size(800, 600)
     driver1.get("https://aviso.bz/login")
     print("please wait...")
