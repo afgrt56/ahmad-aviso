@@ -45,11 +45,20 @@
     "secure": false
   },
   {
-    "name": "PHPSESSID",
-    "value": "4r9u1tlmcv0il5tc6k1s61hkmn",
+    "name": "googtrans",
+    "value": "null",
+    "domain": "aviso.bz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "googtrans",
+    "value": "null",
     "domain": ".aviso.bz",
     "path": "/",
-    "expires": 1690876093.708815,
+    "expires": -1,
     "httpOnly": false,
     "secure": false
   },
@@ -58,43 +67,34 @@
     "value": "1",
     "domain": ".aviso.bz",
     "path": "/",
-    "expires": 1690861696,
+    "expires": 1690936497,
     "httpOnly": false,
     "secure": true
   },
   {
-    "name": "googtrans",
-    "value": "null",
-    "domain": "aviso.bz",
-    "path": "/",
-    "expires": -1,
-    "httpOnly": false,
-    "secure": false
-  },
-  {
-    "name": "googtrans",
-    "value": "null",
+    "name": "PHPSESSID",
+    "value": "j8j36miig9peqcvbnslvjnghuf",
     "domain": ".aviso.bz",
     "path": "/",
-    "expires": -1,
+    "expires": 1690970640.956456,
     "httpOnly": false,
     "secure": false
   },
   {
     "name": "cenrifugo_token",
-    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODM4NTk2IiwiZXhwIjoxNjkwODU5ODI2fQ.Rnw7jkOuyzcaWAr8PeyKTrADhD7PqTvtCp4ak74nlzg",
+    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxODM4NTk2IiwiZXhwIjoxNjkwOTQ2NTI3fQ.QoP9c_7_DYkpb-wPCnZ1E_3Hi93_5uILvvMbVzy9Ryg",
     "domain": "aviso.bz",
     "path": "/",
-    "expires": 1690859819.273686,
+    "expires": 1690946520.258859,
     "httpOnly": false,
     "secure": false
   },
   {
     "name": "cenrifugo_token_exp",
-    "value": "1690859826",
+    "value": "1690946527",
     "domain": "aviso.bz",
     "path": "/",
-    "expires": 1690859819.273742,
+    "expires": 1690946520.258954,
     "httpOnly": false,
     "secure": false
   }
